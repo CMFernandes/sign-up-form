@@ -129,6 +129,7 @@ a{
     padding:40px 80px;
 }
 
-input:error{
-    
+input:invalid:focus{
+    border: red solid 1px;
 }
+
