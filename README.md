@@ -1,4 +1,4 @@
 # sign-up-form
 
+![](images/sign-up-form.png "")
 
-(sign-up-form.png)
