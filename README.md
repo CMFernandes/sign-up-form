@@ -1,3 +1,4 @@
 # sign-up-form
 
-[sign-up-form.png]
+
+(sign-up-form.png)
