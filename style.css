@@ -83,7 +83,7 @@ h2,.form{
 
 .form-container{
     background-color: white;
-    box-shadow:0 5px 15px 5px rgba(0,0,0,0.4);
+    box-shadow:10px 5px 15px 5px rgba(0,0,0,0.4);
 }
 
 label{
