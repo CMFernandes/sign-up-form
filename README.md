@@ -6,7 +6,7 @@
 
 ---
 
-##About
+## About
 
 This project was made to practice CSS and form inputs.
 
